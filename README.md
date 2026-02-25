@@ -17,5 +17,5 @@ The app requests only the following permissions to function:
 ## 4. No Third-Party Integration
 Mindstitch currently has no integrations with external financial APIs, cloud sync services, or social media platforms. Everything you do stays between you and your device.
 ## 5. Contact
-For questions regarding our privacy-first approach, please visit the [Mindstitch GitHub Repository](https://github.com/esc31xyz/privacy-policy
+For questions regarding our privacy-first approach, please visit the [Mindstitch GitHub Repository](https://github.com/esc31xyz/mindstitch-privacy-policy
 ).
